@@ -1,3 +1,3 @@
-Matrix Addition
-Matrix Substraction
-Matrix Multiplication
+Matrix Addition, 
+Matrix Substraction, 
+Matrix Multiplication.
